@@ -1,0 +1,11 @@
+{
+  "name": "eth-vanity-address-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "bip39": "^3.0.4",
+    "ethereum-hdwallet": "^0.0.26"
+  }
+}
